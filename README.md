@@ -3,14 +3,14 @@
 Este README.md documenta os comandos essenciais e as melhores práticas de desenvolvimento utilizadas neste projeto. **Desenvolvido com a stack TALL (Tailwind CSS, Alpine.js, Laravel e Livewire)**, que venho estudando há cerca de um mês. No meu dia a dia de trabalho, utilizo principalmente PHP e Laravel. Esta foi minha primeira experiência prática com Alpine.js e Livewire em um contexto de teste, embora já tivesse feito alguns estudos prévios.
 
 **Pré-requisitos:**
-Antes de iniciar, certifique-se de que você tem o PHP e o MySQL instalados e configurados em seu ambiente. Para um guia detalhado de instalação no Windows, consulte o arquivo [instalacao_windows.md](instalacao_windows.md).
+Antes de iniciar, certifique-se de que você tem o PHP e o MySQL instalados e configurados em seu ambiente. Para um guia detalhado de instalação no Windows, consulte o arquivo [instalacao-windows.md](instalacao-windows.md).
 
 ## 🚀 Como Iniciar o Projeto
 
 1.  **Clone o repositório** (se ainda não o fez):
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone [https://github.com/BrunoMichael/desafio-funcionarios](https://github.com/BrunoMichael/desafio-funcionarios)
     cd desafio-funcionarios
     ```
 
