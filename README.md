@@ -10,7 +10,7 @@ Antes de iniciar, certifique-se de que você tem o PHP e o MySQL instalados e co
 1.  **Clone o repositório** (se ainda não o fez):
 
     ```bash
-    git clone [https://github.com/BrunoMichael/desafio-funcionarios](https://github.com/BrunoMichael/desafio-funcionarios)
+    git clone https://github.com/BrunoMichael/desafio-funcionarios
     cd desafio-funcionarios
     ```
 
